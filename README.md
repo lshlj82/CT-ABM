@@ -9,15 +9,6 @@ A single-file, browser-based demo of how **incomplete contact tracing** changes 
 >
 > It is not affiliated with or endorsed by the authors. The authors' original simulation code is at https://github.com/MkChae/ABM_CT and their input data at https://doi.org/10.6084/m9.figshare.31142995.
 
-## Running it
-
-No build step and no dependencies. Either:
-
-- open `contact_tracing_demo.html` directly in a modern browser, or
-- serve it with GitHub Pages (rename to `index.html` if you want it at the site root).
-
-The page loads the Schibsted Grotesk typeface from Google Fonts and falls back to system fonts when offline.
-
 ## What you can do
 
 - **Choose the response:** no intervention, test-and-isolate only, or full contact tracing.
